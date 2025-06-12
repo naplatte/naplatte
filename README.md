@@ -18,3 +18,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
 </p>
 
+## Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=sleepyDev0x&show_icons=true&theme=tokyonight" width="420"/>
