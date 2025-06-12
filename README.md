@@ -1,5 +1,17 @@
 <h1 align="center">👋 Hi, I'm sleepyDev0x!</h1>
 
+## 👨‍🎓 About Me
+
+Hi there! I'm a student from China 🇨🇳 who is currently diving into both **development** and **AI-related** tech stacks.
+
+- 🔧 Currently learning **C++** and system-level programming
+- 🤖 Research : **Reinforcement Learning** & **Graph Neural Networks**
+- 📚 Passionate about combining theoretical understanding with hands-on coding
+- 🧠 I use GitHub as a journal to document my learning journey and share small projects along the way
+- 🌱 Just getting started, but excited to keep growing and building in public
+
+Thanks for stopping by — feel free to explore my repos and connect!
+
 ## Tech Stack
 <p align="left">
   <!-- C++ -->
