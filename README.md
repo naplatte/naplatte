@@ -1,4 +1,5 @@
-# 👋 Hi, I'm sleepyDev0x!
+<h1 align="center">👋 Hi, I'm sleepyDev0x!</h1>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepyDev0x&show_icons=true&theme=tokyonight)
 
