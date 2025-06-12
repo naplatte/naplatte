@@ -12,7 +12,7 @@ Hi there! I'm a student from China 🇨🇳 who is currently diving into both **
 
 Thanks for stopping by — feel free to explore my repos and connect!
 
-<h3>🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
   &nbsp;&nbsp;&nbsp;
