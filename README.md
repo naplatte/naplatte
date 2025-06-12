@@ -28,7 +28,7 @@ Thanks for stopping by — feel free to explore my repos and connect!
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/huggingface.svg" alt="NLP" width="40" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" />
 </p>
 <!-- Reinforcement Learning (代表用 OpenAI Gym / 强化学习框架) -->
 
