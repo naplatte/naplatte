@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm sleepyDev0x!👋</h1>
 
-## 👨‍🎓 About Me
+## 🤓 About Me
 
 Hi there! I'm a student from China 🇨🇳 who is currently diving into both **development** and **AI-related** tech stacks.
 
