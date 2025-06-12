@@ -1,14 +1,20 @@
 <h1 align="center">👋 Hi, I'm sleepyDev0x!</h1>
 
-## 🧠 Tech Stack
+## 🛠️ Languages and Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B" alt="C++" />
-  <img src="https://img.shields.io/badge/-Qt-2C2E43?style=flat&logo=qt" alt="Qt" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux" alt="Linux" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-GNN-0055B3?style=flat&logo=neptune-ai" alt="GNN" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" alt="Spark" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" />
 </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sleepyDev0x&show_icons=true&theme=tokyonight" />
