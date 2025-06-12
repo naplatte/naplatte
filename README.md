@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm sleepyDev0x!</h1>
 
 ## Tech Stack
-<p align="center">
+<p align="left">
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
   <!-- Qt -->
@@ -16,7 +16,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <!-- GNN (使用 Graphviz 徽章代表 Graph Neural Networks) -->
-  <img src="https://img.shields.io/badge/-GNN-9A6CFF?style=flat&logo=graphviz" alt="GNN" height="40" />
 </p>
 
