@@ -34,4 +34,4 @@ Thanks for stopping by — feel free to explore my repos and connect!
 
 
 ## 📊 Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=sleepyDev0x&show_icons=true&theme=tokyonight" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=naplatte&show_icons=true&theme=tokyonight" width="420"/>
