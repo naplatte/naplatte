@@ -1,48 +1,33 @@
-<h1 align="center">Hi, I'm Hao Cui</h1>
+<div align="center">
+Hao Cui
+Social Bot Detection Research | C++ / Python / LLM Development
 
-<p align="center">
-  CS student interested in AI, graph learning, and systems programming.
-</p>
+I work around graph-based social bot detection, AI engineering, and practical software development.
 
-<p align="center">
-  <a href="mailto:cuihsgg@qq.com">Email</a> ·
-  <a href="https://github.com/naplatte">GitHub</a>
-</p>
+<p> <a href="mailto:cuihsgg@qq.com"> <img src="https://img.shields.io/badge/Email-cuihsgg%40qq.com-2f80ed?style=flat-square&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/naplatte"> <img src="https://img.shields.io/badge/GitHub-naplatte-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </a> </p> </div>
+About
+Hi, I'm Hao Cui, a student from China focusing on AI-related development and software engineering.
 
----
+My current research interest is social bot detection, especially graph-based methods for modeling user behavior, social relations, and multi-source signals on online platforms.
 
-### About
+For engineering, I am moving toward C++ development and Python / LLM application development, with interest in building reliable tools, AI workflows, and practical systems.
 
-I'm currently studying computer science and building projects around AI systems, graph neural networks, and C++ applications.
+Research: social bot detection, graph neural networks, AI for social media analysis
+Development: C++, Python, Qt, Linux, backend tools, LLM applications
+LLM direction: RAG, agents, MCP, skills, and workflow automation
+Learning style: building small projects, reading papers, and turning ideas into runnable code
+Tech Stack
+Languages & Systems
+<p> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> </p>
+AI & LLM Engineering
+<p> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=readthedocs&logoColor=white" alt="RAG" /> <img src="https://img.shields.io/badge/Agents-0F766E?style=flat-square&logo=openai&logoColor=white" alt="Agents" /> <img src="https://img.shields.io/badge/MCP-4F46E5?style=flat-square&logo=protocols.io&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/Skills-7C3AED?style=flat-square&logo=semanticweb&logoColor=white" alt="Skills" /> </p>
+Frameworks & Databases
+<p> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> </p>
+Current Focus
+Research        Social bot detection, graph learning, behavior modeling
+Engineering     C++ applications, Python tooling, LLM-based workflows
+AI Systems      RAG, agents, MCP, skills, automation
+Direction
+I am currently building a stronger foundation in both AI research and engineering practice.
 
-- Exploring Graph Neural Networks and Reinforcement Learning
-- Building desktop applications with C++ / Qt / MySQL
-- Learning system-level programming and software engineering fundamentals
-- Using GitHub to document experiments, projects, and long-term learning
-
----
-
-### Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,qt,python,pytorch,linux,git,mysql" />
-</p>
-
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Cinema Management System](https://github.com/naplatte/Cinema-management-system) | A C++ / Qt / MySQL desktop management system with a complete UI and backend logic. | C++, Qt, MySQL |
-| [408 Database](https://github.com/naplatte/CS-Postgraduate-Entrance-Examination-408-Database) | Study notes and structured resources for CS postgraduate entrance exam preparation. | Notes, CS |
-| More coming soon | Small projects and research experiments in AI and systems programming. | Python, C++ |
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=naplatte&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naplatte&layout=compact&hide_border=true" />
-</p>
+My long-term goal is to become a developer who can understand models, implement systems, and ship useful AI-powered products.
