@@ -8,11 +8,8 @@
 I work around graph-based social bot detection, AI engineering, and practical software development.
 
 <p>
-  <a href="mailto:cuihsgg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cuihsgg%40gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  <a href="https://github.com/naplatte">
-    <img src="https://img.shields.io/badge/GitHub-naplatte-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:cuihsgg@gmail.com"><img src="https://img.shields.io/badge/Email-cuihsgg%40gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/naplatte"><img src="https://img.shields.io/badge/GitHub-naplatte-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 
