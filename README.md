@@ -8,7 +8,7 @@
 I work around graph-based social bot detection, AI engineering, and practical software development.
 
 <p>
-  <a href="mailto:cuihsgg@qq.com">
+  <a href="mailto:cuihsgg@gmail.com">
     <img src="https://img.shields.io/badge/Email-cuihsgg%40qq.com-2f80ed?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/naplatte">
