@@ -1,37 +1,48 @@
-<h1 align="center">I'm naplatte!⭐</h1>
+<h1 align="center">Hi, I'm Hao Cui</h1>
 
-## 🤓 About Me
-
-Hi there! I'm a student from China 🇨🇳 who is currently diving into both **development** and **AI-related** tech stacks.
-
-- 🔧 Currently learning **C++** and system-level programming
-- 🤖 Research : **Reinforcement Learning** & **Graph Neural Networks**
-- 📚 Passionate about combining theoretical understanding with hands-on coding
-- 🧠 I use GitHub as a journal to document my learning journey and share small projects along the way
-- 🌱 Just getting started, but excited to keep growing and building in public
-
-Thanks for stopping by — feel free to explore my repos and connect!
-
-## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" />
-  &nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" />
-  &nbsp;&nbsp;&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" />
+<p align="center">
+  CS student interested in AI, graph learning, and systems programming.
 </p>
-<!-- Reinforcement Learning (代表用 OpenAI Gym / 强化学习框架) -->
 
+<p align="center">
+  <a href="mailto:cuihsgg@qq.com">Email</a> ·
+  <a href="https://github.com/naplatte">GitHub</a>
+</p>
 
-## 📊 Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=naplatte&show_icons=true&theme=tokyonight" width="420"/>
+---
+
+### About
+
+I'm currently studying computer science and building projects around AI systems, graph neural networks, and C++ applications.
+
+- Exploring Graph Neural Networks and Reinforcement Learning
+- Building desktop applications with C++ / Qt / MySQL
+- Learning system-level programming and software engineering fundamentals
+- Using GitHub to document experiments, projects, and long-term learning
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,qt,python,pytorch,linux,git,mysql" />
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Cinema Management System](https://github.com/naplatte/Cinema-management-system) | A C++ / Qt / MySQL desktop management system with a complete UI and backend logic. | C++, Qt, MySQL |
+| [408 Database](https://github.com/naplatte/CS-Postgraduate-Entrance-Examination-408-Database) | Study notes and structured resources for CS postgraduate entrance exam preparation. | Notes, CS |
+| More coming soon | Small projects and research experiments in AI and systems programming. | Python, C++ |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=naplatte&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naplatte&layout=compact&hide_border=true" />
+</p>
