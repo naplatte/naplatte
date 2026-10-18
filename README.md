@@ -56,4 +56,3 @@ AI Systems      RAG, agents, MCP, skills, automation
 Direction
 I am currently building a stronger foundation in both AI research and engineering practice.
 My long-term goal is to become a developer who can understand models, implement systems, and ship useful AI-powered products.
-先出个计划
