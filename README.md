@@ -75,24 +75,6 @@ My research interest is **social bot detection**, especially graph-based methods
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/naplatte?tab=overview">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naplatte&amp;theme=github&amp;title_color=0f766e&amp;text_color=475569&amp;border_color=e2e8f0&amp;icon_color=0f766e&amp;bg_color=ffffff" width="420" alt="GitHub activity statistics" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/naplatte?tab=overview">
-    <img src="https://ghchart.rshah.org/0f766e/naplatte" width="100%" alt="GitHub contribution activity over the past year" />
-  </a>
-</p>
-
-<p align="center"><sub>Contribution activity over the past year.</sub></p>
-
----
-
 ## Direction
 
 I am strengthening my **C++ foundation** while expanding my backend and AI engineering practice.
